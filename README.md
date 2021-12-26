@@ -1,2 +1,3 @@
 # personal-nextjs-starter
-❇️  My personal Next.js starter for future projects
+
+❇️ My personal Next.js starter for future projects
