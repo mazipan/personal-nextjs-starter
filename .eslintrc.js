@@ -37,7 +37,10 @@ module.exports = {
     'import/newline-after-import': 2,
     'import/no-unresolved': [2, { commonjs: true, amd: true }],
     'import/no-extraneous-dependencies': 2,
-    'import/order': 'error'
+    'import/no-anonymous-default-export': 0,
+    'import/order': 'error',
+    'react/no-unescaped-entities': 'off',
+    'react/no-children-prop': 'off'
   },
   settings: {
     'import/resolver': {
